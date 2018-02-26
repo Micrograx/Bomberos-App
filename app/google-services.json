@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "14408386427",
+    "firebase_url": "https://bomberos-test.firebaseio.com",
+    "project_id": "bomberos-test",
+    "storage_bucket": "bomberos-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14408386427:android:98bb1a481fda21ae",
+        "android_client_info": {
+          "package_name": "com.breakapp.bomberosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14408386427-71qrt170u9n78k7f1u6j80mahpk78jft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73ftFIQ_mt_tkeZsSge0XyqWx3dWcnZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
